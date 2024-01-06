@@ -14,11 +14,4 @@ Install the dependencies: npm install
 Start the development server: npm start
 Open your browser and visit http://localhost:3000 to see the testimonial slider in action.
 
-                       #Contributing
-Contributions are welcome! If you would like to contribute to the testimonial slider project, please follow these steps:
-
-1)Fork the repository.
-2)Create a new branch for your feature or bug fix: git checkout -b my-feature
-3)Make your changes and commit them: git commit -m 'Add some feature'
-4)Push to your forked repository: git push origin my-feature
-5)Create a pull request to the main repository.
+ 
